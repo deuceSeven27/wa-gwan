@@ -10,4 +10,4 @@
  - machine learning (decision trees)
  - web scraping libs
 
-This is a webapp
+This is a webapp that scrapes pages on line and displays cool stuff (events and promotions) to users.
